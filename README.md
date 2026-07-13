@@ -52,16 +52,18 @@
 - SQL
 - Power BI
 - Python
-- Machine Learning Basics
+
 
 ---
 
 ## 📫 Connect with Me
 - mail:tejadivi19@gmail.com
 - LinkedIn: www.linkedin.com/in/tejaswi-ram-divi
-- GitHub:https://github.com/tejadivi19-dev/tejadivi-19dev
+- GitHub:https://github.com/tejadivi19-dev
 
 ---
 
+
+⭐ Thanks for visiting my profile!
 
 ⭐ Thanks for visiting my profile!

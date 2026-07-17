@@ -2,11 +2,11 @@
 
 ## 🎓 About Me
 - 🎓 B.Tech Computer Science & Engineering Student
-- 📊 Aspiring Data Analyst
-- 💻 Passionate about Python, SQL, Power BI, and Data Visualization
-- 📈 Interested in turning raw data into meaningful insights
-- 🌱 Currently improving my Data Analytics and Problem-Solving skills
-- 🚀 Looking for Internship and Placement Opportunities
+- Aspiring Data Analyst
+- Passionate about Python, SQL, Power BI, and Data Visualization
+- Interested in turning raw data into meaningful insights
+- Currently improving my Data Analytics and Problem-Solving skills
+- Looking for Internship and Placement Opportunities
 
 ---
 
@@ -66,4 +66,3 @@
 
 ⭐ Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!

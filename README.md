@@ -2,11 +2,10 @@
 
 # Hi 👋, I'm **Tejaswi Ram Divi**
 
-### 🚀 Aspiring Data Analyst | Python • SQL • Power BI • Data Visualization
+### 🚀 Aspiring Data Analyst
+###  Python • SQL • Power BI •Excel • Data Visualization •Eda
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Enthusiast;Turning+Data+into+Actionable+Insights;Always+Learning+Something+New" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=tejadivi19-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -74,7 +73,7 @@
 
 # 📂 Featured Project
 
-## 🏏 IPL Match & Player Performance Analytics
+## 1.🏏 IPL Match & Player Performance Analytics
 
 An end-to-end Data Analytics project analyzing IPL match-level and ball-by-ball datasets using **Python** and **SQL**.
 
@@ -93,6 +92,20 @@ An end-to-end Data Analytics project analyzing IPL match-level and ball-by-ball 
 ✔ Data Visualization using Matplotlib & Seaborn
 
 ---
+### 2.  📊 Superstore Sales Data Analysis
+
+An end-to-end Data Analytics project using Python, Pandas, NumPy, Matplotlib, and Seaborn to analyze the Sample Superstore dataset. 
+This project demonstrates the complete data analysis workflow—from loading and cleaning data to exploratory analysis and feature engineering.
+
+### Highlights
+
+✔  Data Loading & Understanding
+
+✔  Data Cleaning & Preprocessing
+
+✔  Exploratory Data Analysis (EDA)
+
+✔  Feature Engineering
 
 # 🎯 Current Focus
 
@@ -101,21 +114,8 @@ An end-to-end Data Analytics project analyzing IPL match-level and ball-by-ball 
 - 🗄 SQL
 - 📈 Power BI
 - 📉 Data Visualization
-- 💼 Building Portfolio Projects
+- 💼 Building Projects
 
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tejadivi19-dev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tejadivi19-dev&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejadivi19-dev&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 

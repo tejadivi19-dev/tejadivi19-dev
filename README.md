@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm **Tejaswi Ram Divi**
 
-### 🚀 Aspiring Data Analyst
+### 🚀 Aspiring Data Analyst,Python,SQL Developer
 ###  Python • SQL • Power BI •Excel • Data Visualization •Eda
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Enthusiast;Turning+Data+into+Actionable+Insights;Always+Learning+Something+New" alt="Typing SVG" />

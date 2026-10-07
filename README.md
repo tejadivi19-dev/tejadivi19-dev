@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm **Tejaswi Ram Divi**
 
-### 🚀 Aspiring to build career in Data Analyst, Python and SQL Developer
-###  Python • SQL • Power BI •Excel • Data Visualization •Eda
+### 🚀 Aspiring to build career in Python and SQL Developer
+###  Python • SQL • Power BI •Excel 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst,+python+and+sql+developer;Python+%7C+SQL+%7C+Power+BI+Enthusiast;Turning+Data+into+Actionable+Insights;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+python+and+sql+developer;Python+%7C+SQL+%7C+Power+BI+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -15,15 +15,11 @@
 
 🎓 B.Tech Computer Science & Engineering Student
 
-📊 Passionate about Data Analytics and Business Intelligence
 
 🐍 Skilled in Python, SQL, Power BI, Excel, and Data Visualization
 
-📈 Interested in transforming raw data into meaningful business insights
 
-💡 Continuously learning Data Analytics, SQL Optimization, and Problem Solving
-
-🎯 Currently seeking Internship and Placement opportunities in Data Analytics
+💡 Continuously learning  SQL Optimization, and Problem Solving
 
 ---
 
@@ -109,11 +105,9 @@ This project demonstrates the complete data analysis workflow—from loading and
 
 # 🎯 Current Focus
 
-- 📊 Data Analytics
 - 🐍 Python
 - 🗄 SQL
 - 📈 Power BI
-- 📉 Data Visualization
 - 💼 Building Projects
 
 
@@ -140,8 +134,6 @@ This project demonstrates the complete data analysis workflow—from loading and
 ---
 
 <div align="center">
-
-### 💡 "Data is the new oil, but insights are the real fuel."
 
 ⭐ **Thanks for visiting my profile!**
 
